@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:slategrey;
+}
+.bio {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.text{
+    text-align:center;
+}
+.pic{
+    width: 800px;
+    height: 400px;
+    background: white;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+hr{
+    width:250px;
+    height: 3px;
+    background-color: thistle;
+    border: none;
+    margin-top: 20px;
+}
+img{
+    width: 40%;
+    height: 100%;
+}
+#btn{
+    position:absolute;
+    left: 780px;
+    bottom: 85px;
+    border: none;
+    background-color: thistle;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 15%;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
